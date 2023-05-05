@@ -1,0 +1,47 @@
+/* body{
+    background-color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+} */
+
+.main {
+    background: url(images/Aqua.jpg);
+    /* padding-top: 1px; */
+    padding-right: 10px;
+    background-position: center;
+    background-size: 200%;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color:aquamarine; 
+}
+
+a:hover {
+    color:coral;
+}
+
+head {
+    background-image: url(images/me.jpeg);
+    background-position: center center;
+    height: 550px;
+}
+
+h2 {
+    color:#FFFFFF;
+    font-family: 'Open sans', sans-serif;
+    font-size: 70px;
+    line-height: 60px;
+    margin: 0px;
+}
+
+.topRightLinks {
+    color: #FFFFFF;
+    font-family: 'Open sans', sans-serif;
+    font-size: larger;
+    font-style: normal;
+    text-align: right;
+}
